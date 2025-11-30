@@ -40,7 +40,7 @@ ev-charging-network-analysis/
 
 ├── visualizations/             
 
-├── reports/                    
+├── documentation/                    
 
 └── README.md
 
