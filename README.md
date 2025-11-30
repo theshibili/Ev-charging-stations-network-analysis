@@ -44,7 +44,7 @@ ev-charging-network-analysis/
 
 └── README.md
 
-## Technologies & Used
+## Technologies Used
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebooks for interactive analysis
 - Data Visualization for insights communication
