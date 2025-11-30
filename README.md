@@ -20,16 +20,16 @@ Data-driven insights into the EV charging ecosystem, focusing on infrastructure 
 
 ##  Key Insights
 
-### Market Structure
+#### Market Structure
 - North America dominates with 60-70% of global infrastructure
 - ChargePoint leads operator market with 1,750+ stations
 - Circuit Électrique demonstrates highest operational reliability
 
-### Operational Patterns
+#### Operational Patterns
 - Multi-connector stations show 25%+ better reliability
 - Seasonal peaks in Q4 (September-November)
 
-### Strategic Opportunities
+#### Strategic Opportunities
 - European growth markets (Spain, Russia, Malaysia)
 - Emerging market entry in Southern Hemisphere
 
